@@ -1,0 +1,6 @@
+﻿  CMyIOCPServer.cpp
+H:\code\github\1-my-repo\MyWinIOCPDemo\IOCPServer\CMyIOCPServer.cpp(28,21): error C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+H:\code\github\1-my-repo\MyWinIOCPDemo\IOCPServer\CMyIOCPServer.cpp(110,31): error C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IOCPServer.cpp
+  IOCPServerDlg.cpp
+  正在生成代码...
